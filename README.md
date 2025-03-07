@@ -10,8 +10,10 @@ This repository contains a collection of files and resources that can be downloa
 
 To help guide you through the process, refer to the following screenshots:
 
-- **Screenshot 1**: [https://ibb.co/6RgVHB2z](https://ibb.co/6RgVHB2z)
-- **Screenshot 2**: [https://ibb.co/wZN9yLw7](https://ibb.co/wZN9yLw7)
+- **Screenshot 1**: ![image](https://github.com/user-attachments/assets/4d814d91-1d04-4f39-b14b-85dbda955e19)
+
+- **Screenshot 2**: ![image](https://github.com/user-attachments/assets/46316cd7-f2b5-4f41-aeff-3d53f1b88287)
+
 
 These images illustrate the steps involved in downloading the repository.
 
