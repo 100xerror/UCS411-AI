@@ -5,6 +5,7 @@ This repository contains a collection of files and resources that can be downloa
 
 1. **Access the Repository**: Navigate to the repository's main page.
 2. **Download ZIP**: Click on the "Download ZIP" button to download the entire repository.
+2. **Clone git**: use git clone https://github.com/100xerror/UCS411-AI/
 
 ### Screenshots
 
